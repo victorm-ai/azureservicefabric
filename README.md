@@ -7,6 +7,7 @@ Azure Service Fabric is an orchestration of microservices that works on the hard
 # Technology used
 
 * Visual Studio 2015.
+* Azure Service Fabric SDK.
 
 # Requirements
 
